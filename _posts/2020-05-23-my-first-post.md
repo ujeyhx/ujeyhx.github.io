@@ -1,11 +1,17 @@
 ---
-layout: post
-<<<<<<< HEAD
-title: "Language Testsdddddddddddddddddddd"
-=======
-title: "Laneeeeeguage Tests"
->>>>>>> 162ba0a7852409c29e2fee3c3df6fb2a2f5cc5b8
-category: example2
+title:  "[Jekyll] 블로그 포스팅하는 방법"
+excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2020-05-25
+last_modified_at: 2020-05-25
 ---
 
 Note: I took this test post from [moving](https://github.com/huangyz0918/moving), which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.
