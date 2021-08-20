@@ -1,8 +1,15 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: "Language Testsdddddddddddddddddddd"
+=======
+title: "Laneeeeeguage Tests"
+>>>>>>> 162ba0a7852409c29e2fee3c3df6fb2a2f5cc5b8
 category: example2
 ---
+
+Note: I took this test post from [moving](https://github.com/huangyz0918/moving), which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.
+
 
 
 
